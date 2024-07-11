@@ -70,6 +70,7 @@ These are vendors with the highest number of transactions.
 2. **Office Depot Business SVCS Div** - 0.05%: 43,104 transactions Office Depot provides a broad range of office supplies and services. This division would cater to business customers with products like stationery, furniture, technology equipment, and business services (such as printing and document services).
 3. **Falcon Fuels INC.** - 0.05%: 20,578 transactions This company likely specializes in the provision of fuel products. They could be supplying gasoline, diesel, or other types of fuel for vehicles, equipment, and heating purposes.
 
+<br>
 
 ### 2️⃣. What departments exhibit higher spending, and how is the government budget allocated among various activities within these departments?
 We used Pareto analysis on the top 10 departments badsed on their spending in the data to identify and prioritize those contributing to 80% of the financial impact. This approach helps to focus on resources in key departments, aiming to optimize financial management by improving resource allocation and decision-making efficiency.
@@ -103,6 +104,7 @@ The government classifies activities under each department into main activities 
 3. The **Housing and Community Investment Department** primarily focuses its expenditure on community development.
 4. Both **Transportation** and **Water** departments allocate their entire budgets to 'TRANSPORTATION, COMMERCE, and ENTERPRISE.'
 
+<br>
 
 ### 3️⃣. Which departments use most of the Special Revenue funds and the Capital Projects funds?
 
