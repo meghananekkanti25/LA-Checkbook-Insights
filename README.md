@@ -37,12 +37,12 @@ We then create the database by define the tables and their relationships using s
 ## 🌠 Data Analysis and Visualization
 Using Pandas and Matplotlib, we created visualizations to better understand the data to explain and effectively answer the questions.
 
-1️⃣. Which vendors have the highest total order dollar amoun? What are the order counts for the top three vendors, and what percentage of the dataset's total orders does each vendor represent?
+### 1️⃣. Which vendors have the highest total order dollar amoun? What are the order counts for the top three vendors, and what percentage of the dataset's total orders does each vendor represent?
 
---- Top 5 vendors based on total order dollar amount ---
+#### Top 5 vendors based on total order dollar amount 
 These are vendors with highest expenditure.
 
-<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/4942c621-e8ed-41ef-8983-8f1ed775b8c2" width="450" />
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/4942c621-e8ed-41ef-8983-8f1ed775b8c2" width="700" />
 
 1. Voya Holdings, Inc.: $ 344,757,329 VOYA is a financial services company that provides retirement, investment, and insurance products. In a government context, this expenditure could be related to pension fund management, employee retirement plans, or other financial services.
 2. Southern California Public Power Authority: $ 342,719,045 SCPPA is a joint powers authority consisting of municipal utilities and an irrigation district. The Office of the Treasurer likely handles financial transactions for a city or state. Expenditures here may relate to utility services or financial management services for public funds.
@@ -51,8 +51,10 @@ These are vendors with highest expenditure.
 5. Southern California Permanente Medical Group: $ 214,302,046 This is a medical organization that provides healthcare services. Expenditures with this group would likely be related to healthcare services for government employees or public health initiatives.
 
 
---- Top 3 Vendors are --- 
+#### Top 3 Vendors based on order counts
 These are vendors with the highest number of transactions.
+
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/9e331720-966a-4fe1-a27c-1add041589d7" width="700" />
 
 1. Konica Minolta Business Solutions - 0.05%: 54,975 transactions Konica Minolta is a multinational technology company that specializes in business solutions, including office printing systems, digital presses, multifunctional products (MFPs), and IT services. They typically provide copiers, laser printers, and related services.
 2. Office Depot Business SVCS Div - 0.05%: 43,104 transactions Office Depot provides a broad range of office supplies and services. This division would cater to business customers with products like stationery, furniture, technology equipment, and business services (such as printing and document services).
