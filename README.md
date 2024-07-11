@@ -23,9 +23,9 @@ We want to create a schema to get a logical understanding and structure for the 
 
 First we start from this schema:
 
-<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="100" />
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="150" />
 
 We will eventually build a dimensional schema like this:
 
-<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/e680611f-121a-4cd5-b4f3-298cad47b24d" width="100" />
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/e680611f-121a-4cd5-b4f3-298cad47b24d" width="250" />
 
