@@ -18,8 +18,14 @@ You can find the data dictionary and more information about each field here: htt
 Start by setting up the appropriate environment to run a Jupyter Notebook file to ensure you have the proper versions of the required libraries. Once that is done, ensure you have PostgreSQL installed and running. You can then download the data and .ipynb file and hit "Run All" on the notebook.
 
 
-## Dimensional Modelling
+## 🧩 Dimensional Modelling
+We want to create a schema to get a logical understanding and structure for the database by defining tables, columns, and their relationships.
+
 First we start from this schema:
 
-<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="200" />
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="100" />
+
+We will eventually build a dimensional schema like this:
+
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/e680611f-121a-4cd5-b4f3-298cad47b24d" width="100" />
 
