@@ -43,7 +43,7 @@ Using Pandas and Matplotlib, we created visualizations to better understand the 
 These are vendors with highest expenditure.
 
 <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/4942c621-e8ed-41ef-8983-8f1ed775b8c2" width="700" />
-
+/
 1. Voya Holdings, Inc.: $ 344,757,329 VOYA is a financial services company that provides retirement, investment, and insurance products. In a government context, this expenditure could be related to pension fund management, employee retirement plans, or other financial services.
 2. Southern California Public Power Authority: $ 342,719,045 SCPPA is a joint powers authority consisting of municipal utilities and an irrigation district. The Office of the Treasurer likely handles financial transactions for a city or state. Expenditures here may relate to utility services or financial management services for public funds.
 3. Turner PCL: $ 329,937,822 These are large construction companies that often form joint ventures for large-scale construction projects. Expenditures with this vendor would likely be for construction or major infrastructure projects.
