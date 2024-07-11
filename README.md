@@ -24,13 +24,13 @@ We want to create a schema to get a logical understanding and structure for the 
 First we start from this schema:
 
 <p align="center">
-    <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/raw/main/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="150" />
+    <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/4ea86035-7682-4fd8-bd81-d618a4de2865" alt="Image description" width="150" />
 </p>
 
 We will eventually build a dimensional schema like this:
 
 <p align="center">
-    <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/raw/main/assets/74411935/e680611f-121a-4cd5-b4f3-298cad47b24d" width="450" />
+    <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/e12e24c1-4e02-476a-b9d2-0a75922979f0" width="450" />
 </p>
 
 We then create the database by define the tables and their relationships using sql functions. 
@@ -47,9 +47,10 @@ Using Pandas and Matplotlib, we created visualizations to better understand the 
 These are vendors with highest expenditure.
 <br>
 <p align="center">
-    <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/raw/main/assets/74411935/4942c621-e8ed-41ef-8983-8f1ed775b8c2" width="700" />
+    <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/aab9cae2-a662-42b8-bd26-ef3411756a62" width="700" />
 </p>
 <br>
+
 1. Voya Holdings, Inc.: $ 344,757,329 VOYA is a financial services company that provides retirement, investment, and insurance products. In a government context, this expenditure could be related to pension fund management, employee retirement plans, or other financial services.
 2. Southern California Public Power Authority: $ 342,719,045 SCPPA is a joint powers authority consisting of municipal utilities and an irrigation district. The Office of the Treasurer likely handles financial transactions for a city or state. Expenditures here may relate to utility services or financial management services for public funds.
 3. Turner PCL: $ 329,937,822 These are large construction companies that often form joint ventures for large-scale construction projects. Expenditures with this vendor would likely be for construction or major infrastructure projects.
@@ -64,6 +65,7 @@ These are vendors with the highest number of transactions.
     <img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/9e331720-966a-4fe1-a27c-1add041589d7" width="700" />
 </p>
 <br>
+
 1. Konica Minolta Business Solutions - 0.05%: 54,975 transactions Konica Minolta is a multinational technology company that specializes in business solutions, including office printing systems, digital presses, multifunctional products (MFPs), and IT services. They typically provide copiers, laser printers, and related services.
 2. Office Depot Business SVCS Div - 0.05%: 43,104 transactions Office Depot provides a broad range of office supplies and services. This division would cater to business customers with products like stationery, furniture, technology equipment, and business services (such as printing and document services).
 3. Falcon Fuels INC. - 0.05%: 20,578 transactions This company likely specializes in the provision of fuel products. They could be supplying gasoline, diesel, or other types of fuel for vehicles, equipment, and heating purposes.
