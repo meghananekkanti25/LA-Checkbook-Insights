@@ -21,5 +21,5 @@ Start by setting up the appropriate environment to run a Jupyter Notebook file t
 ## Dimensional Modelling
 First we start from this schema:
 
-<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="400" />
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/586eb164-127c-4d82-af22-a329bf220209" alt="Image description" width="200" />
 
