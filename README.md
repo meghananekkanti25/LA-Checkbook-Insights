@@ -27,5 +27,10 @@ First we start from this schema:
 
 We will eventually build a dimensional schema like this:
 
-<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/e680611f-121a-4cd5-b4f3-298cad47b24d" width="400" />
+<img src="https://github.com/meghananekkanti25/LA-Checkbook-Insights/assets/74411935/e680611f-121a-4cd5-b4f3-298cad47b24d" width="450" />
+
+We then create the database by define the tables and their relationships using sql functions. 
+
+
+## 🌠 Data Analysis + Visualization
 
