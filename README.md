@@ -137,7 +137,7 @@ Capital Projects Funds are used to account for financial resources allocated to 
 3. **Investment in Public Services**: There is a clear emphasis on investing in community services and infrastructure, such as parks and transportation, aimed at enhancing residents' quality of life. The substantial expenditure in the "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT" underscores a dedicated effort toward housing development, potentially addressing housing affordability or homelessness. The investment in "BIKE SHARE PHASE III" within the "TRANSPORTATION" department highlights a commitment to sustainable and alternative transportation options.
 
 
-## ⏭ Takeaways and Next Steps
+## 🔖 Takeaways and Next Steps
 - There are big spenders from top vendors like Voya Holdings, Southern California Public Power Authority, and Turner PCL. They seem to invest significantly in financial services, utilities, and infrastructure projects.
 - On the other hand, vendors with the most transactions, like Konica Minolta and Office Depot, probably fulfill the day-to-day operational needs, such as office supplies and other business services.
 - The budget is significantly influenced by the high-spending departments of 'WATER AND POWER,' 'AIRPORTS,' and 'NON_DEPARTMENTAL,' which cover a large portion of the overall spending. This underscores the need to direct the financial management efforts towards these departments, while still giving attention to smaller departments like 'POLICE.'
