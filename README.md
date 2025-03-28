@@ -146,5 +146,8 @@ Next Steps:
 4. Execute cost-benefit analyses to optimize fund utilization and ensure maximum value for each dollar spent.
 
 
+#### Authors
+Meghana Nekkanti, Zixing Liu, Yanhui Wu, Feiyu Lin, Nilgun Aslanova
+
 
 
