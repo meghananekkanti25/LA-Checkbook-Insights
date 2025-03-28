@@ -6,6 +6,7 @@ For this project, we used the Los Angeles City Controller's office dataset to an
 
 ## 📊 Data
 This dataset contains 700,145 records and 62 variables, providing a solid foundation for analysis. Its structured format allows for efficient exploration and interpretation, offering detailed insights into how financial resources are allocated within Los Angeles. By examining expenditures, vendors, departments, and fund types, we identified patterns and trends in financial distribution, supporting informed decision-making.
+
 Data source: [Los Angeles City Controller Data](https://controllerdata.lacity.org/api/views/mkec-7zmd/rows.csv?accessType=DOWNLOAD&api_foundry=true)  
 You can find the data dictionary and more information about each field [here](https://controllerdata.lacity.org/Purchasing/2020-Checkbook-Data/mkec-7zmd).
 
@@ -67,8 +68,6 @@ These vendors have the most transactions:
 3. **Falcon Fuels Inc.** — 0.05%: 20,578 transactions  
    Falcon Fuels specializes in providing fuel products, including gasoline, diesel, and other types of fuel for vehicles, equipment, and heating purposes.
 
-<br>
-
 ### 2️⃣. Which departments have the highest spending, and how is the budget distributed among their activities?
 We performed a Pareto analysis on the top 10 spending departments to identify which contributed the most to total expenditure.
 
@@ -103,8 +102,6 @@ The government classifies activities within each department into main activities
 2. **General Services** categorizes activities into 'GENERAL GOVERNMENT,' 'FINANCIAL SERVICES,' and 'PROTECTION OF PERSONS AND PROPERTY,' allocating 96.65% of the budget to 'GENERAL GOVERNMENT' and 3.35% to 'FINANCIAL SERVICES.'
 3. The **Housing and Community Investment Department** predominantly focuses its expenditure on community development.
 4. Both the **Transportation** and **Water** departments allocate their entire budgets to 'TRANSPORTATION, COMMERCE, and ENTERPRISE.'
-
-<br>
 
 ### 3️⃣. Which departments use most of the Special Revenue and Capital Projects funds?
 
