@@ -85,8 +85,6 @@ It takes only five departments ("WATER AND POWER," "AIRPORTS," "NON_DEPARTMENTAL
 
 While smaller departments like "POLICE" have a lower individual percentage, their essential services mean that budget adjustments must carefully consider avoiding compromising critical public services. This spending distribution indicates that strategic financial management efforts should focus on the top spending departments, but it is also important to ensure that smaller departments operate efficiently and are not overlooked simply due to their smaller share of the spending.
 
---- 
-
 **Departmental Activity Analysis Using Pareto Analysis**  
 We analyzed activities within specific departments—'WATER AND POWER,' 'AIRPORTS,' 'NON DEPARTMENTAL,' 'GENERAL SERVICES,' 'TRANSPORTATION,' and 'HOUSING AND COMMUNITY INVESTMENT DEPARTMENT'—using Pareto analysis to focus on those contributing most significantly. By extracting financial data from the checkbook table, and joining it with department and activity tables, we were able to calculate the total spending on each activity. The results show spending by activity as a percentage of departmental totals, which guides spending priorities and provides valuable insights into departmental financial management.
 
@@ -105,7 +103,7 @@ The government classifies activities within each department into main activities
 
 ### 3️⃣. Which departments use most of the Special Revenue and Capital Projects funds?
 
-#### Special Revenue funds
+#### Special Revenue Funds
 These funds are allocated for specific projects and ensure transparency in spending.
 <br>
 <p align="center">
@@ -117,7 +115,7 @@ These funds are allocated for specific projects and ensure transparency in spend
 2. **Cumulative Impact**: Spending from these funds will have a noticeable cumulative impact as we move down the list. The "TRANSPORTATION" department alone accounts for nearly 45% of the special revenue fund spending, and along with "NON_DEPARTMENTAL," they comprise over 70% of the total special revenue fund expenditure.
 3. **Efficiency and Efficacy**: The efficient use of special revenue funds should be regularly reviewed. This is not just a formality, but a crucial step to ensure that these targeted funds are making the intended impact. Departments with lower allocations may need to be audited for efficiency or to argue a case for increased funding, highlighting the importance of your role in oversight.
 
-#### Capital Projects funds
+#### Capital Projects Funds
 These funds finance infrastructure and construction projects.
 <br>
 <p align="center">
